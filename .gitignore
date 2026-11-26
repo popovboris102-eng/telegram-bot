@@ -1,0 +1,7 @@
+bot.db
+__pycache__/
+voice_*.mp3
+voice_*.wav
+photo_*.jpg
+video_*.gif
+.env
